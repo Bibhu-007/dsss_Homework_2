@@ -35,7 +35,7 @@ cd dsss_Homework_2
 
 Run the command line:
 '''
-python math_quiz.py
+math_quiz
 '''
 
 ## License
